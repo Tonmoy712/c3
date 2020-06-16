@@ -1,0 +1,152 @@
+body{
+
+}
+h1,h2,h3,p{
+    color: #0D2556;
+}
+p{
+    font-size: 20px;
+    line-height: 1.6em;
+}
+img{
+    max-width: 100%;
+}
+header{
+    box-shadow: 0px 1px 10px #3b506c40;
+    padding: 10px 0;
+}
+.wrapper{
+    margin: auto;
+    width: 1100px;
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+.logo img{}
+nav{
+    float: left;
+    width: 80%;
+    text-align: right;
+}
+nav ul{
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+}
+nav ul li a{
+    color: #3B506C;
+    font-size: 20px;
+    text-decoration: none;
+    display: block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{
+    color:#0C66FF ;
+}
+ /* about section start */
+ section{
+
+ }
+.about-section{
+    text-align: center;
+}
+.about-section h1{
+    font-size: 80px;
+    margin: 0 auto;
+    max-width: 850px;
+    padding-top: 1em;
+}
+.about-section h1 span{
+    color: #0C66FF;
+}
+.about-section p{
+
+margin: 0;
+
+padding: 1em;
+}
+/* about section end */
+/* image section start */
+.image-section{
+
+ }
+.image-section img{
+    display: block;
+    margin: auto;
+    max-width: 600px;
+    padding-top: 2em;
+}
+/* image section end */
+/* feature section start */
+.feature-section{
+    margin: 100px 0;
+}
+.colum{
+    float: left;
+    width: 50%;
+}
+.feature{
+    padding: 20px;
+}
+.feature h2{
+    font-size: 55px;
+    margin: 0;
+}
+.feature p{
+
+}
+.feature h2 span{
+    
+color: #F25666;
+}
+.align-right{ text-align: right;}
+/* feature section end */
+/* blog section start */
+.blog-section{}
+.col{
+
+box-sizing: border-box;
+
+width: 33.33%;
+
+float: left;
+
+padding: 10px;
+}
+.blog{box-shadow: 3px 3px 3px #0000002e;background: #FDEBED;padding: 20px;}
+.blog img{
+
+width: 300px;
+
+height: 300px;
+}
+.blog h3{
+
+font-size: 25px;
+
+margin: 0;
+
+margin-bottom: 10px;
+}
+.blog p{
+    
+font-size: 18px;
+    
+margin: 0;
+}
+.color-1{}
+.color-2{
+    background: #EBF9F4;
+}
+.color-3{
+    background: #FFF7E8;
+}
+/* blog section end */
+
+
+
